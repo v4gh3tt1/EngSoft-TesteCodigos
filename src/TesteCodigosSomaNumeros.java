@@ -1,4 +1,4 @@
-public class TesteCodigos { //soma dois numeros
+public class TesteCodigosSomaNumeros { //soma dois numeros
 
     static int x, y, resultado;
     static int soma (int a, int b) {
