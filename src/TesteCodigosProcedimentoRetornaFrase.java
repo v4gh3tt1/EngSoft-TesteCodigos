@@ -1,6 +1,11 @@
 
 public class TesteCodigosProcedimentoRetornaFrase { //invoca Procedimento que imprime mensagem na tela, com e sem parametro
 
+    static String f(){ // função sem argumento
+        String mensagem = "Função sem parametro";
+        return mensagem;
+    }
+
     static void frase (String msg) { //procedimento sem parametro
         System.out.println(msg);
     }
@@ -13,7 +18,6 @@ public class TesteCodigosProcedimentoRetornaFrase { //invoca Procedimento que im
         String mensagem = ("Hello World!");
         frase(mensagem); // invoca procediemento e passa o parametro
         frase(); // invoca procedimento sem parametro
-
-  
+        System.out.println(f()); // imprime dado repassado pela função
     }
 }
