@@ -8,17 +8,10 @@
 ░░░░░░░░||░░░░░░░░░░||░░░░░|||||░░░||░░░░||░░|||||||░░░░░░||░░░░░░░░||░░░░░░||||||░░░░░
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
 */
-public class TesteCodigosSomaNumeros { //soma dois numeros
+public class TesteCodigosEstruturaControleSE {
 
-    static int x, y, resultado;
-    static int soma (int a, int b) {
-        return (a+b);
-    }
-    public static void main(String[] args) {
-    x = 5;
-    y = 3;
-    resultado = soma(x, y);
-    System.out.println(resultado);
-      
-    }
+   
+public static void main(String[] args) {
+    
+} 
 }
