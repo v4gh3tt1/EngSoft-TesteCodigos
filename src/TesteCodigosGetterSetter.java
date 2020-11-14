@@ -25,6 +25,9 @@ public class TesteCodigosGetterSetter{
         veiculo2.cor = "Prata";
         veiculo2.marca = "VW";
 
+        TesteCodigosCarro veiculo3Pvt = new TesteCodigosCarro();
+        veiculo3Pvt
+
         System.out.println("\n\nMarca" + "\tCor" + "\tMotor");
         System.out.println(veiculo1.marca + "\t"+veiculo1.cor + "\t"+veiculo1.motor);
         System.out.println(veiculo2.marca + "\t"+veiculo2.cor + "\t"+veiculo2.motor+"\n\n");
