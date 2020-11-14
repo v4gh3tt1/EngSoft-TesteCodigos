@@ -22,11 +22,6 @@ public class TesteCodigosCarro {
 
     // metodos getter and setters dos atributos privados
 
-
-    public static void main(String[] args) {
-
-        
-
     public String getMotorPvt() {
         return this.motorPvt;
     }
@@ -49,8 +44,11 @@ public class TesteCodigosCarro {
 
     public void setMarcaPvt(String marcaPvt) {
         this.marcaPvt = marcaPvt;
-    }
 
         
     }
+    public static void main(String[] args) {
+
+        
+}
 }
