@@ -17,7 +17,7 @@ public class TesteCodigosGetterSetter{
     public static void main(String[] args) {
 
         TesteCodigosCarro veiculo1 = new TesteCodigosCarro();
-        veiculo1.motor = "2.0";
+        veiculo1.motor = "2.2";
         veiculo1.cor = "Preto";
         veiculo1.marca = "Ford";
 
