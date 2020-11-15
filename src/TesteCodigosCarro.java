@@ -10,7 +10,7 @@
 */
 public class TesteCodigosCarro {
 
-    // atributos provados acessiveis com get/set
+    // atributos privados acessiveis com get/set
     private String motorPvt;
     private String corPvt;
     private String marcaPvt;
