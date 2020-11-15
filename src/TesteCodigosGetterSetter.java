@@ -1,12 +1,13 @@
 /*
+Teste de codigos desenvolvidos durante a materia de 
+Programação Orientafa a Objetos
+Engenharia de Software
+novembro de 2020
+Charles Vaghetti
+ch2vaghetti@gmail.com
 
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
-░░░░░||░░░░||░░||░░░░░░░░░||||||░░░||░░░░||░░░||||||░░░||||||||░░||||||||░░░░░||░░░░░░░
-░░░░░||░░░░||░░||░░░||░░░||░░░░░░░░||░░░░||░░░░░░░░||░░░░░||░░░░░░░░||░░░░░░||||░░░░░░░
-░░░░░░||░░||░░░░|||||||░░||░░|||░░░||||||||░░░░|||||░░░░░░||░░░░░░░░||░░░░░░░░||░░░░░░░
-░░░░░░░||||░░░░░░░░░||░░░||░░░░||░░||░░░░||░░░░░░░░||░░░░░||░░░░░░░░||░░░░░░░░||░░░░░░░
-░░░░░░░░||░░░░░░░░░░||░░░░░|||||░░░||░░░░||░░|||||||░░░░░░||░░░░░░░░||░░░░░░||||||░░░░░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
+ █ █ ▄▀▄ ▄▀  █▄█ ▀██ ▀█▀ ▀█▀ ▄█
+ ▀▄▀ █▀█ ▀▄█ █ █ ▄▄█  █   █   █
 */
 
 //acesso aos atributos publicos de TesteCodigoCarro diretamente
@@ -43,6 +44,17 @@ public class TesteCodigosGetterSetter{
 
         System.out.println(veiculo3Pvt.getMarcaPvt() + "\t" + veiculo3Pvt.getCorPvt() + "\t" + veiculo3Pvt.getMotorPvt()); //acessa atributo privado
         System.out.println(veiculo4Pvt.getMarcaPvt() + "\t" + veiculo4Pvt.getCorPvt() + "\t" + veiculo4Pvt.getMotorPvt() + "\n"); //acessa atributo privado
+
+        System.out.println("\n\n\t\t\t\t\t\t\t\t\t\t\t▄ ▄ ▄   ▄▄▄ ▄ ▄ ▄▄▄ ▄▄▄ ▄▄▄  ▄");
+        System.out.println("\t\t\t\t\t\t\t\t\t\t\t█ █ █▄█ █   █▄█  ▄█  █   █  ▀█");
+        System.out.println("\t\t\t\t\t\t\t\t\t\t\t▀▄▀   █ ▀▄█ █ █ ▄▄█  █   █   █\n");
+        
+
+        
+        
+        
+    
+
 }
     
 }
