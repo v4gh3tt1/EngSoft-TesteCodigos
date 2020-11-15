@@ -1,10 +1,10 @@
 /*
 Teste de codigos desenvolvidos durante a materia de 
 Programação Orientafa a Objetos
-Engenharia de Software
-novembro de 2020
+Bel. Engenharia de Software
+Novembro de 2020
 Charles Vaghetti
-ch2vaghetti@gmail.com
+https://github.com/v4gh3tt1
 
  █ █ ▄▀▄ ▄▀  █▄█ ▀██ ▀█▀ ▀█▀ ▄█
  ▀▄▀ █▀█ ▀▄█ █ █ ▄▄█  █   █   █
